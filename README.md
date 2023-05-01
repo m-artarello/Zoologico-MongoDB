@@ -1,7 +1,7 @@
 ### Resumo
 Projeto desenvolvido em _**Java com MongoDB**_. 
 
-**Versão com JPA, Hibernate e PostgreSQL:** https://github.com/m-artarello/Zoologico-PostgreSQL).
+**Versão com JPA, Hibernate e PostgreSQL:** https://github.com/m-artarello/Zoologico-PostgreSQL
 
 Para fins de estudo, migrei o projeto inicialmente desenvolvido com JPA e Hibernate, para que pudesse trabalhar também
 com banco de dados não relacionais.
